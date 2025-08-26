@@ -1,0 +1,5 @@
+com/ust/user/controller/UserController.class
+com/ust/user/service/UserService.class
+com/ust/user/repository/UserRepository.class
+com/ust/user/model/User.class
+com/ust/user/UserApplication.class
